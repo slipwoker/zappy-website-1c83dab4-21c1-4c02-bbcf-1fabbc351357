@@ -1,0 +1,86 @@
+# KG — Generative Engine Optimization Map
+
+> A ספורט ואופנה business.
+
+---
+
+## Pages
+
+### Home
+https://kg-1c83dab4.zappy5.app
+
+### Lookbook
+https://kg-1c83dab4.zappy5.app/lookbook
+
+### Technology
+https://kg-1c83dab4.zappy5.app/technology
+
+### Contact
+https://kg-1c83dab4.zappy5.app/contact
+
+### Products
+https://kg-1c83dab4.zappy5.app/products
+המוצרים שלנו - KG
+
+### Cart
+https://kg-1c83dab4.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://kg-1c83dab4.zappy5.app/checkout
+תשלום
+
+### Login
+https://kg-1c83dab4.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://kg-1c83dab4.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://kg-1c83dab4.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://kg-1c83dab4.zappy5.app/product/:slug
+פרטי המוצר - KG
+
+### Category
+https://kg-1c83dab4.zappy5.app/category/:slug
+מוצרים - KG
+
+## Legal & Policy
+
+### Privacy Policy
+https://kg-1c83dab4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://kg-1c83dab4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://kg-1c83dab4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About KG
+KG is a business in the ספורט ואופנה industry.
+
+## Target Audience
+- חובבי ריקוד
+- משתתפי אירועי ספורט
+
+## Industry
+ספורט ואופנה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://kg-1c83dab4.zappy5.app/sitemap.xml
+- **Robots.txt**: https://kg-1c83dab4.zappy5.app/robots.txt
